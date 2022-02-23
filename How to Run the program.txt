@@ -1,0 +1,13 @@
+# How to Run the program
+
+Requirements
+1. Python 3
+2. Pandas
+3. Numpy
+4. Jupyter Notebook
+
+- Run the .py script with the following command "python credit_life_insurance.py"
+
+OR
+
+- Run the .ipynb with jupyter notebook. Here you can visualize the different tables with the print() function.

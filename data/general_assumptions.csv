@@ -1,0 +1,16 @@
+assumption,amount
+radix,100000
+Monthly Premium ,0.65% of the loan 
+Interest rate ,0.1
+Risk discount rate ,0.1
+Mortality ,kenyan tables @ 4%
+Initial commission expenses,0.2
+second year commission expense ,0.07
+subsequent commission expenses,0.05
+Initial management expenses ,0.35
+Second year management expense ,0.15
+subsequent management expenses ,0.1
+Critical illness benefit,50% of the loan outstanding 
+Initial expenses,0.55
+Renewal expenses,0.37
+Policy term ,Term of the loan 
